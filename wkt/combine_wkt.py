@@ -1,23 +1,3 @@
-combine_wkt.py
-
-Type
-Text
-Size
-2 KB (1,814 bytes)
-Storage used
-2 KB (1,814 bytes)
-Location
-My Drive
-Owner
-me
-Modified
-Oct 24, 2018 by me
-Opened
-5:33 PM by me
-Created
-Oct 24, 2018 with Google Drive Web
-Add a description
-Viewers can download
 #  This scripts merges multiple wkt into one
 #  Assuming each file only has one wkt
 #  python combine_wkt.py input_dir output_file
